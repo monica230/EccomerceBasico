@@ -109,22 +109,21 @@ const styles = StyleSheet.create({
     fontSize: 18,
     fontWeight: 'bold',
     marginBottom: 4,
-    color: '#FFFFFF', // Texto branco
+    color: '#FFFFFF',
   },
   price: {
     fontSize: 16,
-    color: '#888', // Cinza para o preço
+    color: '#888', 
     marginBottom: 8,
   },
   button: {
-    backgroundColor: '#D9A300', // Botão roxo destaque
-    borderRadius: 25,
+    backgroundColor: '#D9A300',
     paddingVertical: 10,
     paddingHorizontal: 20,
     alignItems: 'center',
   },
   buttonText: {
-    color: '#121212', // Texto escuro no botão claro
+    color: '#121212', 
     fontSize: 16,
     fontWeight: 'bold',
   },
@@ -137,7 +136,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   logoutButtonText: {
-    color: '#121212', // Texto escuro no botão claro
+    color: '#121212',
     fontSize: 16,
     fontWeight: 'bold',
   },
